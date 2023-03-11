@@ -1,0 +1,1 @@
+{"type": "TURRET_DESTROY", "payload": {"killerID": "riot:lol:player:8981cd0c-5a46-384d-8223-176358dcc5c5", "killerTeamID": "riot:lol:team:98767991926151025", "turretTier": 2, "turretLane": "bot", "playerGoldGranted": 500, "teamGoldGranted": 50}}

@@ -1,0 +1,75 @@
+{
+    "matchID": "riot:lol:match:f969bd21-4223-4efc-90bd-a4769761f681",
+    "type": "MATCH_START",
+    "payload": {
+        "fixture": {
+            "startTime": "2022-04-10T15:15:00Z",
+            "title": "LOL",
+            "seriesCurrent": 1,
+            "seriesMax": 5,
+            "seriesType": "BEST_OF"
+        },
+        "teams": [
+            {
+                "teamID": "riot:lol:team:101383793574360315",
+                "players": [
+                    {
+                        "playerID": "riot:lol:player:d8839010-91c5-3ec1-bde6-32dc55abfd74",
+                        "gold": 500,
+                        "name": "RGE Odoamne"
+                    },
+                    {
+                        "playerID": "riot:lol:player:cdc1b37f-c9d0-3a7e-a201-8dd5b0bd99bb",
+                        "gold": 500,
+                        "name": "RGE Malrang"
+                    },
+                    {
+                        "playerID": "riot:lol:player:a5846f69-3c0d-32b7-bc94-01dbcb260e26",
+                        "gold": 500,
+                        "name": "RGE Larssen"
+                    },
+                    {
+                        "playerID": "riot:lol:player:f114d45a-be6d-38a1-b163-525423dee8ed",
+                        "gold": 500,
+                        "name": "RGE Comp"
+                    },
+                    {
+                        "playerID": "riot:lol:player:404eeb82-f744-3a4c-aa49-88d29f4ae5fb",
+                        "gold": 500,
+                        "name": "RGE Trymbi"
+                    }
+                ]
+            },
+            {
+                "teamID": "riot:lol:team:98767991926151025",
+                "players": [
+                    {
+                        "playerID": "riot:lol:player:8981cd0c-5a46-384d-8223-176358dcc5c5",
+                        "gold": 500,
+                        "name": "G2 BrokenBlade"
+                    },
+                    {
+                        "playerID": "riot:lol:player:b8945185-74af-35f1-8f66-89043bc89e91",
+                        "gold": 500,
+                        "name": "G2 Jankos"
+                    },
+                    {
+                        "playerID": "riot:lol:player:671651b4-b1e3-3739-8b8b-faf8ba0b83ba",
+                        "gold": 500,
+                        "name": "G2 caPs"
+                    },
+                    {
+                        "playerID": "riot:lol:player:96473a95-f9ec-36d7-a7a7-88b75d21644e",
+                        "gold": 500,
+                        "name": "G2 Flakked"
+                    },
+                    {
+                        "playerID": "riot:lol:player:ce9e0be9-0b7b-3669-afb5-6e50650a3048",
+                        "gold": 500,
+                        "name": "G2 Targamas"
+                    }
+                ]
+            }
+        ]
+    }
+}
